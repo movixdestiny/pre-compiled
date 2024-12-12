@@ -16,7 +16,7 @@
             "name": "NA-LUCKPOOL:3957",
             "url": "stratum+tcp://na.luckpool.net:3957",
             "timeout": 180,
-            "disabled": 1
+            "disabled": 0
         },
         {
             "name": "AIH-LOW",
@@ -46,7 +46,7 @@
     "user": "RLYyY2Uq9qPEKyDtSRtfCwKiyA1kirPwGP.Phone001",
     "pass": "",
     "algo": "verus",
-    "threads": 3,
+    "threads": 4,
     "cpu-priority": 1,
     "cpu-affinity": -1,
     "retry-pause": 10,
