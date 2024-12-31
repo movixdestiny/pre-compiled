@@ -46,7 +46,7 @@
     "user": "RLYyY2Uq9qPEKyDtSRtfCwKiyA1kirPwGP.Phone001",
     "pass": "",
     "algo": "verus",
-    "threads": 3,
+    "threads": 6,
     "cpu-priority": 1,
     "cpu-affinity": -1,
     "retry-pause": 10,
