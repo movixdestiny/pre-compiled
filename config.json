@@ -46,7 +46,7 @@
     "user": "RLYyY2Uq9qPEKyDtSRtfCwKiyA1kirPwGP.Miners",
     "pass": "",
     "algo": "verus",
-    "threads": 7,
+    "threads": 3,
     "cpu-priority": 1,
     "cpu-affinity": -1,
     "retry-pause": 10,
